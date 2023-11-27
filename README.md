@@ -1,12 +1,13 @@
 # 💫About Me :
-👨‍🎓 Sankaralingam, 🎓 Engineering Graduate Student in CSE
-📍 Location: Tamil Nadu, India
-🌐 Interested in Programming & Learning Tech Articles
-💻 Hobby: Web3 Enthusiast
-📊 Passionate about Data
-🤹‍♂️ Enjoys Playing Fun Facts
-🎂 Age: 23
-🌟 Still Single and Ready to Mingle!
+👨‍🎓 Sankaralingam,
+<br>🎓 Engineering Graduate Student in CSE
+<br>📍 Location: Tamil Nadu, India
+<br>🌐 Interested in Programming & Learning Tech Articles
+<br>💻 Hobby: Web3 Enthusiast
+<br>📊 Passionate about Data
+<br>🤹‍♂️ Enjoys Playing Fun Facts
+<br>🎂 Age: 23
+<be>🌟 Still Single and Ready to Mingle!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankaralingam-v) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mesankar) 
